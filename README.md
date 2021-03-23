@@ -126,3 +126,7 @@ docker-compose down && docker-compose up
 [1° Conteinerização de scripts em Python](https://github.com/claudimf/containerized_python)
 
 [2° Data Structures](https://docs.python.org/3/tutorial/datastructures.html)
+
+[3° Common string operations](https://docs.python.org/2/library/string.html)
+
+[4° defaultdict objects](https://docs.python.org/2/library/collections.html#defaultdict-objects)
